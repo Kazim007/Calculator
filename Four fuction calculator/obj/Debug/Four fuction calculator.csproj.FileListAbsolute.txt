@@ -1,0 +1,8 @@
+E:\codres\Four fuction calculator\Four fuction calculator\bin\Debug\Four fuction calculator.exe.config
+E:\codres\Four fuction calculator\Four fuction calculator\bin\Debug\Four fuction calculator.exe
+E:\codres\Four fuction calculator\Four fuction calculator\bin\Debug\Four fuction calculator.pdb
+E:\codres\Four fuction calculator\Four fuction calculator\obj\Debug\Four fuction calculator.csproj.AssemblyReference.cache
+E:\codres\Four fuction calculator\Four fuction calculator\obj\Debug\Four fuction calculator.csproj.SuggestedBindingRedirects.cache
+E:\codres\Four fuction calculator\Four fuction calculator\obj\Debug\Four fuction calculator.csproj.CoreCompileInputs.cache
+E:\codres\Four fuction calculator\Four fuction calculator\obj\Debug\Four fuction calculator.exe
+E:\codres\Four fuction calculator\Four fuction calculator\obj\Debug\Four fuction calculator.pdb
